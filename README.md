@@ -1,2 +1,2 @@
 # jhudscourse
-Test folder for stuff from data science course
+Test repo for stuff from data science course
